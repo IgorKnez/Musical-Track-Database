@@ -1,5 +1,6 @@
 # Using Databases with Python
 
+## Libraries:sqlite3, json, xml.etree.ElementTree
 
 ## Languages: SQL, Python
 
